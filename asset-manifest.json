@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-paradise/static/css/main.92cf7f8c.css",
+    "main.js": "/React-paradise/static/js/main.92519144.js",
+    "static/js/453.4748d9da.chunk.js": "/React-paradise/static/js/453.4748d9da.chunk.js",
+    "index.html": "/React-paradise/index.html",
+    "main.92cf7f8c.css.map": "/React-paradise/static/css/main.92cf7f8c.css.map",
+    "main.92519144.js.map": "/React-paradise/static/js/main.92519144.js.map",
+    "453.4748d9da.chunk.js.map": "/React-paradise/static/js/453.4748d9da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92cf7f8c.css",
+    "static/js/main.92519144.js"
+  ]
+}
